@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Brittany
 
-<!--
-**BrittRog/BrittRog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Programming and Analysis student interested in web and mobile development, UX/UI design, and IT Support and Systems.
 
-Here are some ideas to get you started:
+🤔 Currently Learning:
+- Python
+- Power BI
+- Actively developing my UX/UI skills and design thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Skills & Tools:
+- Languages: JavaScript, Java, C#
+- Web: HTML, CSS, React
+- Design: Basic Figma, basic UI/UX research
+- Tools: Bitbucket, GitHub, VS Code, Jira
+
+😄 Fun Facts:
+- I love camping and spending time outdoors
+- I'm an avid reader
+- I provide reviews / feedback for books before they're officially published
+
+
+
