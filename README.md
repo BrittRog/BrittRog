@@ -11,7 +11,7 @@ I'm a Computer Programming and Analysis student interested in web and mobile dev
 - Languages: JavaScript, Java, C#
 - Web: HTML, CSS, React
 - Design: Basic Figma, basic UI/UX research
-- Tools: Bitbucket, GitHub, VS Code, Jira
+- Tools: Bitbucket, GitHub, Jira
 
 😄 Fun Facts:
 - I love camping and spending time outdoors
